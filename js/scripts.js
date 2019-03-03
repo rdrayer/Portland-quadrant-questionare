@@ -10,7 +10,6 @@ $(document).ready(function() {
 
     if (total > 1 && total <= 6) {
       $("#burbs").show();
-      $("#submit").remove();
     } else if (total >=7 && total <=12) {
       $("#sene").show();
     } else if (total >=13 && total <=18) {

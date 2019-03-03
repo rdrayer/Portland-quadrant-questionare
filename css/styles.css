@@ -2,7 +2,16 @@
   display: none;
 }
 
-img {
+h2 {
+  font-size: 15pt;
+}
+
+#pdx {
   height: 200px;
   width: 900px;
+}
+
+img.resultimg {
+  height: 300px;
+  width: 400px;
 }
